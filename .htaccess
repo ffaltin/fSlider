@@ -1,0 +1,7 @@
+# Access control
+Order Allow,Deny
+Allow from All
+
+# File handling
+Options -Indexes
+Options +SymLinksIfOwnerMatch
